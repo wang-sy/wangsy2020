@@ -1,6 +1,11 @@
 {
     "files.associations": {
         "*.tcc": "cpp",
-        "system_error": "cpp"
+        "system_error": "cpp",
+        "iostream": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp"
     }
 }
